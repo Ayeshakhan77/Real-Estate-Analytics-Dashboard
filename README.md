@@ -2,7 +2,7 @@
 **DataBuzz Power BI Challenge | Advanced Property Market Intelligence**
 
 <p align="center">
-  <img src="Real_estate.png" alt="UK Real Estate Dashboard" width="1000">
+  <img src="Real_estate.jpeg" alt="UK Real Estate Dashboard" width="1000">
 </p>
 
 ## Overview
